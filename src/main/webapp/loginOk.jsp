@@ -20,7 +20,7 @@
 
 		
 		out.print("로그인 성공");
-	}else{
+	}else {
 		out.print("로그인 실패");
 	}
 	
